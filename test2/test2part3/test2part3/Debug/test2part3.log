@@ -1,0 +1,3 @@
+﻿  test2part3.c
+E:\Clearning\开学培训\test2\test2part3\test2part3\test2part3.c(11,6): warning C4101: “n”: 未引用的局部变量
+  test2part3.vcxproj -> E:\Clearning\开学培训\test2\test2part3\test2part3\Debug\test2part3.exe
