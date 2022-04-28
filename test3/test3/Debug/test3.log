@@ -1,0 +1,4 @@
+﻿  test3part2.c
+E:\Clearning\test3\test3\test3part2.c(28,55): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\Clearning\test3\test3\test3part2.c(31,29): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  test3.vcxproj -> E:\Clearning\test3\test3\Debug\test3.exe
