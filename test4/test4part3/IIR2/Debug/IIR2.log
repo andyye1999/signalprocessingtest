@@ -1,0 +1,7 @@
+﻿  IIR2.c
+E:\Clearning\开学培训\test4\test4part3\IIR2\IIR2.c(38,54): warning C4101: “SNR1”: 未引用的局部变量
+E:\Clearning\开学培训\test4\test4part3\IIR2\IIR2.c(37,6): warning C4101: “low”: 未引用的局部变量
+E:\Clearning\开学培训\test4\test4part3\IIR2\IIR2.c(38,60): warning C4101: “SNR2”: 未引用的局部变量
+E:\Clearning\开学培训\test4\test4part3\IIR2\IIR2.c(38,66): warning C4101: “P”: 未引用的局部变量
+E:\Clearning\开学培训\test4\test4part3\IIR2\IIR2.c(37,11): warning C4101: “high”: 未引用的局部变量
+  IIR2.vcxproj -> E:\Clearning\开学培训\test4\test4part3\IIR2\Debug\IIR2.exe

@@ -1,0 +1,6 @@
+﻿  test7part1.cpp
+E:\Clearning\开学培训\test7\test7part1\test7part1.cpp(35,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Clearning\开学培训\test7\test7part1\test7part1.cpp(35,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Clearning\开学培训\test7\test7part1\test7part1.cpp(36,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Clearning\开学培训\test7\test7part1\test7part1.cpp(36,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  test7part1.vcxproj -> E:\Clearning\开学培训\test7\test7part1\Debug\test7part1.exe

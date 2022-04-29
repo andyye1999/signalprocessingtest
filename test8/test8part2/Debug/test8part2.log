@@ -1,0 +1,5 @@
+﻿  随机数2.c
+E:\Clearning\开学培训\test8\test8part2\随机数2.c(95,9): warning C4101: “mid”: 未引用的局部变量
+E:\Clearning\开学培训\test8\test8part2\随机数2.c(94,6): warning C4101: “b”: 未引用的局部变量
+E:\Clearning\开学培训\test8\test8part2\随机数2.c(104): warning C4715: “median”: 不是所有的控件路径都返回值
+  test8part2.vcxproj -> E:\Clearning\开学培训\test8\test8part2\Debug\test8part2.exe

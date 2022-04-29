@@ -1,0 +1,4 @@
+﻿  test5part1.c
+E:\Clearning\开学培训\test5\test5part1\test5part1.c(19,26): warning C4477: “fprintf”: 格式字符串“%lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+E:\Clearning\开学培训\test5\test5part1\test5part1.c(21,15): warning C4477: “fprintf”: 格式字符串“%lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  test5part1.vcxproj -> E:\Clearning\开学培训\test5\test5part1\Debug\test5part1.exe

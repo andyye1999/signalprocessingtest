@@ -1,0 +1,4 @@
+﻿  吉他音2.c
+E:\Clearning\开学培训\test9\test9part2\吉他音2.c(11,16): warning C4101: “j”: 未引用的局部变量
+E:\Clearning\开学培训\test9\test9part2\吉他音2.c(12,40): warning C4101: “t”: 未引用的局部变量
+  test9part2.vcxproj -> E:\Clearning\开学培训\test9\test9part2\Debug\test9part2.exe

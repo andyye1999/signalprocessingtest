@@ -1,0 +1,3 @@
+﻿  随机数1.c
+E:\Clearning\开学培训\test8\test8part1\随机数1.c(67,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test8part1.vcxproj -> E:\Clearning\开学培训\test8\test8part1\Debug\test8part1.exe
